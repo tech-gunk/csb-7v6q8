@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://tech-gunk.github.io/csb-7v6q8/static/css/main.829ab24e.chunk.css",
+    "main.js": "https://tech-gunk.github.io/csb-7v6q8/static/js/main.10774a7a.chunk.js",
+    "main.js.map": "https://tech-gunk.github.io/csb-7v6q8/static/js/main.10774a7a.chunk.js.map",
+    "runtime-main.js": "https://tech-gunk.github.io/csb-7v6q8/static/js/runtime-main.90f264ba.js",
+    "runtime-main.js.map": "https://tech-gunk.github.io/csb-7v6q8/static/js/runtime-main.90f264ba.js.map",
+    "static/css/2.dce10f6f.chunk.css": "https://tech-gunk.github.io/csb-7v6q8/static/css/2.dce10f6f.chunk.css",
+    "static/js/2.04b5bf18.chunk.js": "https://tech-gunk.github.io/csb-7v6q8/static/js/2.04b5bf18.chunk.js",
+    "static/js/2.04b5bf18.chunk.js.map": "https://tech-gunk.github.io/csb-7v6q8/static/js/2.04b5bf18.chunk.js.map",
+    "index.html": "https://tech-gunk.github.io/csb-7v6q8/index.html",
+    "precache-manifest.5d0d474a3c7fa3dc8c8063551b452b51.js": "https://tech-gunk.github.io/csb-7v6q8/precache-manifest.5d0d474a3c7fa3dc8c8063551b452b51.js",
+    "service-worker.js": "https://tech-gunk.github.io/csb-7v6q8/service-worker.js",
+    "static/css/2.dce10f6f.chunk.css.map": "https://tech-gunk.github.io/csb-7v6q8/static/css/2.dce10f6f.chunk.css.map",
+    "static/css/main.829ab24e.chunk.css.map": "https://tech-gunk.github.io/csb-7v6q8/static/css/main.829ab24e.chunk.css.map",
+    "static/js/2.04b5bf18.chunk.js.LICENSE.txt": "https://tech-gunk.github.io/csb-7v6q8/static/js/2.04b5bf18.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "https://tech-gunk.github.io/csb-7v6q8/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90f264ba.js",
+    "static/css/2.dce10f6f.chunk.css",
+    "static/js/2.04b5bf18.chunk.js",
+    "static/css/main.829ab24e.chunk.css",
+    "static/js/main.10774a7a.chunk.js"
+  ]
+}
